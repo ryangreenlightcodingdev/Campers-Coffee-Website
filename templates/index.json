@@ -1,0 +1,386 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "CAMPERS COFFEE CO.",
+            "heading_size": "medium"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "We believe in serving good coffee and our community",
+            "text_style": "body"
+          }
+        },
+        "fccbe550-20fe-4705-b36c-b753d1ea3754": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/coffee",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "fccbe550-20fe-4705-b36c-b753d1ea3754"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/coffee-break.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keep Your Beans Fresh!",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All of our coffee is available to ship in these Campers Coffee De-Gassing Tins. Keep your beans fresher longer for maximum enjoyment. Select the De-gassing Tin option at checkout!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 24
+      }
+    },
+    "d6dfe82b-da6f-43d6-9695-5f157aa022f7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17140347404532__d6dfe82b-da6f-43d6-9695-5f157aa022f7-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Jenni Lotus ⭐⭐⭐⭐⭐",
+            "text": "<p><em>Loved my coffee and service today at campers coffee!  What a super nice surprise.  In the middle of what felt like nowhere, awesome coffee and a really nice human! Impressed with the quality all around!<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17140347404532__d6dfe82b-da6f-43d6-9695-5f157aa022f7-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Aubrey Chase⭐⭐⭐⭐⭐",
+            "text": "<p><em>Great coffee, super friendly staff. Coffee is roasted in house, too!<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17140347404532__d6dfe82b-da6f-43d6-9695-5f157aa022f7-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Matteo Bridges⭐⭐⭐⭐⭐",
+            "text": "<p><em>Great cup of fresh brewed java.....<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a35aa99b-8b5d-486c-ad21-b85fd8507116": {
+          "type": "column",
+          "settings": {
+            "title": "James Alexander⭐⭐⭐⭐⭐",
+            "text": "<p><em>Great tasting coffee!!! Great customer service, and fast shipping.<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5d2ec39b-7657-4ead-9f0f-1299d75c8daa": {
+          "type": "column",
+          "settings": {
+            "title": "Hans Funk⭐⭐⭐⭐⭐",
+            "text": "<p><em>Great people making great coffee!<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d2d2dd34-e245-4d01-ab81-b6d0fa912709": {
+          "type": "column",
+          "settings": {
+            "title": "Thomas Magnuson⭐⭐⭐⭐⭐",
+            "text": "<p><em>Great roast, amazing cause.<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17140347404532__d6dfe82b-da6f-43d6-9695-5f157aa022f7-column-1",
+        "template--17140347404532__d6dfe82b-da6f-43d6-9695-5f157aa022f7-column-2",
+        "template--17140347404532__d6dfe82b-da6f-43d6-9695-5f157aa022f7-column-3",
+        "a35aa99b-8b5d-486c-ad21-b85fd8507116",
+        "5d2ec39b-7657-4ead-9f0f-1299d75c8daa",
+        "d2d2dd34-e245-4d01-ab81-b6d0fa912709"
+      ],
+      "custom_css": [
+        "h2 {margin: 0 auto;}"
+      ],
+      "settings": {
+        "title": "Reviews ☕",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true,
+        "color_scheme": "inverse",
+        "padding_top": 84,
+        "padding_bottom": 100
+      }
+    },
+    "21b24020-6ebe-490a-a8ba-c9b1cfc73f73": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17135054291188__21b24020-6ebe-490a-a8ba-c9b1cfc73f73-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-and-cake.jpg",
+            "heading": "Perfectly Brewed Coffee",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17135054291188__21b24020-6ebe-490a-a8ba-c9b1cfc73f73-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-on-rustic-cottage-table.jpg",
+            "heading": "Dedicated to two core principles: exceptional coffee and community service",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "ba96aacc-66e4-4a40-a82e-74fa0e296c61": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-mug-in-means-top.jpg",
+            "heading": "transforming ordinary days into delightful experiences for coffee enthusiasts",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "15f2446c-0201-431e-8276-ac4ccca83bcf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-mug-on-background.jpg",
+            "heading": "Life Begins After Coffee",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_CHBeB9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FullSizeRender_964170cc-6467-4e76-bf84-9947f90c4deb.heic",
+            "heading": "Six Pack of Kettle Corn",
+            "heading_size": "large",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17135054291188__21b24020-6ebe-490a-a8ba-c9b1cfc73f73-slide-1",
+        "template--17135054291188__21b24020-6ebe-490a-a8ba-c9b1cfc73f73-slide-2",
+        "ba96aacc-66e4-4a40-a82e-74fa0e296c61",
+        "15f2446c-0201-431e-8276-ac4ccca83bcf",
+        "slide_CHBeB9"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": "Coffee"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {margin: 0 auto;}"
+      ],
+      "settings": {
+        "title": "Our Favorites ☕",
+        "collection": "coffee",
+        "products_to_show": 8,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "1644272722547d351e": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {margin: 0 auto;}"
+      ],
+      "settings": {
+        "title": "Candles🕯️",
+        "collection": "candles",
+        "products_to_show": 8,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d09ae60c-42c4-4a7e-afb8-bd4a1c894fb8": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {margin: 0 auto;}"
+      ],
+      "settings": {
+        "title": "Merch 👕",
+        "collection": "merch",
+        "products_to_show": 4,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "567a1e75-b981-4bff-834b-7b66173c58c6": {
+          "type": "product",
+          "settings": {
+            "product": "enamel-mug",
+            "second_image": false
+          }
+        },
+        "118680ac-60ac-4d6b-af7f-252d29409151": {
+          "type": "product",
+          "settings": {
+            "product": "paru-light-roast",
+            "second_image": false
+          }
+        },
+        "5ca3c3aa-cd9b-4a5e-8a43-0b624038872b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/long-espresso-sits-on-a-wooden-stool.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "567a1e75-b981-4bff-834b-7b66173c58c6",
+        "118680ac-60ac-4d6b-af7f-252d29409151",
+        "5ca3c3aa-cd9b-4a5e-8a43-0b624038872b"
+      ],
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "Coffee of the month 🌟",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "d6dfe82b-da6f-43d6-9695-5f157aa022f7",
+    "21b24020-6ebe-490a-a8ba-c9b1cfc73f73",
+    "featured_collection",
+    "1644272722547d351e",
+    "d09ae60c-42c4-4a7e-afb8-bd4a1c894fb8",
+    "collage"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1644316853fdfedf73": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-02-08_024250.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_2022-02-08_024410.png",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1644315213e8e05883": {
+      "type": "newsletter",
+      "blocks": {
+        "16443152130173a0ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Club!"
+          }
+        },
+        "16443152130173a0ae-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "16443152130173a0ae-2": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "16443152130173a0ae-0",
+        "16443152130173a0ae-1",
+        "16443152130173a0ae-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1644316853fdfedf73",
+    "1644315213e8e05883"
+  ]
+}

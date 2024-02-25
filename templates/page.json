@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "80cb732a-f633-4615-bd19-17ddc406ac2e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17141700526324__80cb732a-f633-4615-bd19-17ddc406ac2e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "City Campers",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17141700526324__80cb732a-f633-4615-bd19-17ddc406ac2e-heading-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "b96c563a-46d0-4e30-b25a-5906d7a29c3c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17141700526324__b96c563a-46d0-4e30-b25a-5906d7a29c3c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--17141700526324__b96c563a-46d0-4e30-b25a-5906d7a29c3c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>“City Campers is a dream that has become a reality. Meeting others where they are and guiding them along to where they want to be.” -<\/em>Jonathan Nalywaiko<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17141700526324__b96c563a-46d0-4e30-b25a-5906d7a29c3c-heading-1",
+        "template--17141700526324__b96c563a-46d0-4e30-b25a-5906d7a29c3c-text-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "89cd9bd6-e638-4018-aa19-92cdd59bfcbe": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/city3.jpg",
+        "image_2": "shopify:\/\/shop_images\/city2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1a5138ce-54ab-42ea-98cf-c8b099d10f4e": {
+      "type": "video",
+      "custom_css": [
+        "div {max-width: 750px; max-height: 750px; margin: 0 auto;}"
+      ],
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/city-campers-logo.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=mYCx_BMpiXI",
+        "description": "City-Campers",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "9757138b-f6d8-4376-a088-e70b73f85e4a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17141700526324__9757138b-f6d8-4376-a088-e70b73f85e4a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>City Campers represents the realization of a collective lifelong aspiration to assist others. As a nonprofit organization, we have the capacity to address individual needs on a personal level, providing direct care to those we encounter. Our main approach involves deploying a mobile ministry team on a weekly basis to reach areas where homelessness is prevalent, emphasizing the importance of building meaningful relationships. Reach out to us through this <a href=\"https:\/\/www.signupgenius.com\/go\/10c0c4aa8a929a2fcc61-city#\/\" target=\"_blank\" title=\"https:\/\/www.signupgenius.com\/go\/10c0c4aa8a929a2fcc61-city#\/\">sign up form<\/a> Check us out on our website  <a href=\"https:\/\/www.citycampers.org\/\" target=\"_blank\" title=\"https:\/\/www.citycampers.org\/\">City Campers <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17141700526324__9757138b-f6d8-4376-a088-e70b73f85e4a-text-1"
+      ],
+      "custom_css": [
+        "div {margin-top: 100px;}"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 88
+      }
+    }
+  },
+  "order": [
+    "main",
+    "80cb732a-f633-4615-bd19-17ddc406ac2e",
+    "b96c563a-46d0-4e30-b25a-5906d7a29c3c",
+    "89cd9bd6-e638-4018-aa19-92cdd59bfcbe",
+    "1a5138ce-54ab-42ea-98cf-c8b099d10f4e",
+    "9757138b-f6d8-4376-a088-e70b73f85e4a"
+  ]
+}

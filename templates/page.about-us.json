@@ -1,0 +1,178 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "* {display: none;}"
+      ],
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c01611e7-fb59-4f4a-8918-9f06d35a8e63": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/iced-latte-at-coffee-shop-window.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1901fdcf-8673-4033-a151-42fa8b89756f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17135054389492__1901fdcf-8673-4033-a151-42fa8b89756f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "That's us",
+            "heading_size": "h0"
+          }
+        },
+        "template--17135054389492__1901fdcf-8673-4033-a151-42fa8b89756f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Campers Coffee Co. is dedicated to two core principles: exceptional coffee and community service. Founded by Army Veteran Jonathan Nalywaiko, our family-run coffee company thrives on a passion for superb coffee and exploration across the Pacific Northwest. As a small batch roastery, we meticulously craft our coffees to achieve the finest flavor profiles. Deeply committed to community impact, we are directly affiliated with the nonprofit <a href=\"http:\/\/www.citycampers.org\/\">www.citycampers.org<\/a>, which serves the homeless in our area.<\/p><p>Our vision extends beyond coffee, as we aspire to offer enjoyable and informative classes and workshops, transforming ordinary days into delightful experiences for coffee enthusiasts. Our store proudly features Chemex and other top brands in the coffee industry. Thank you for supporting our mission.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17135054389492__1901fdcf-8673-4033-a151-42fa8b89756f-heading-1",
+        "template--17135054389492__1901fdcf-8673-4033-a151-42fa8b89756f-text-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "722df0d9-1fc1-46e8-8175-d7e69074841c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17135054389492__722df0d9-1fc1-46e8-8175-d7e69074841c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Founder Jonathan",
+            "heading_size": "h1"
+          }
+        },
+        "template--17135054389492__722df0d9-1fc1-46e8-8175-d7e69074841c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jonathan our founder is a Veteran of the Army and has always had a love for great coffee. Along with his daughters and wife they enjoy exploring all around the Pacific Northwest. Campers Coffee is a small batch roastery. So, that means we roast smaller batches allowing us to dial in the best flavor profiles we can.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17135054389492__722df0d9-1fc1-46e8-8175-d7e69074841c-heading-1",
+        "template--17135054389492__722df0d9-1fc1-46e8-8175-d7e69074841c-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/s487178319868691906_p5_i5_w4032.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "01dcdade-5f41-40c0-b5e5-cea9f4f250b7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17135054389492__01dcdade-5f41-40c0-b5e5-cea9f4f250b7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Halli",
+            "heading_size": "h1"
+          }
+        },
+        "template--17135054389492__01dcdade-5f41-40c0-b5e5-cea9f4f250b7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Halli Is from Arizona and loves soccer and leading young people at a local summer camp. She has<br\/>worked at many different Coffee shops and we are so grateful to have her talents and skills at Campers Coffee.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17135054389492__01dcdade-5f41-40c0-b5e5-cea9f4f250b7-heading-1",
+        "template--17135054389492__01dcdade-5f41-40c0-b5e5-cea9f4f250b7-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/barista-1.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bb796c49-881a-42b7-b095-3e585c685f3c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17135054389492__bb796c49-881a-42b7-b095-3e585c685f3c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Addison",
+            "heading_size": "h1"
+          }
+        },
+        "template--17135054389492__bb796c49-881a-42b7-b095-3e585c685f3c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Addison loves art and creating beautiful things, she is an aspiring author and loves pouring our hand<br\/>made candles and someday making coffee for all our customers.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17135054389492__bb796c49-881a-42b7-b095-3e585c685f3c-heading-1",
+        "template--17135054389492__bb796c49-881a-42b7-b095-3e585c685f3c-text-1"
+      ],
+      "custom_css": [
+        "* {background: \"black\";}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/barista-2.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c01611e7-fb59-4f4a-8918-9f06d35a8e63",
+    "1901fdcf-8673-4033-a151-42fa8b89756f",
+    "722df0d9-1fc1-46e8-8175-d7e69074841c",
+    "01dcdade-5f41-40c0-b5e5-cea9f4f250b7",
+    "bb796c49-881a-42b7-b095-3e585c685f3c"
+  ]
+}
